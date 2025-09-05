@@ -1,2 +1,2 @@
 print("hello wereld !")
-print("welkom in onze ijssalon")
+print("welkom in mijn ijssalon")
