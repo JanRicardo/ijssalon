@@ -1,1 +1,2 @@
-ptint("Hello Wereld !")
+print("Hello Wereld !")
+print("Welkom in onzeijssalon")
